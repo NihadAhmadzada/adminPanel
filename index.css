@@ -1,0 +1,19 @@
+table, th, td {
+    border:1px solid black;
+    text-align: center;
+    width: 100px;
+  }
+  table{ width: 700px;
+    margin: 0 auto;
+}
+.x{ 
+width: 50%;
+    background-color: red;
+    height: 20px;
+}
+.u{   
+    width: 50%;
+
+    background-color: rgb(9, 255, 0);
+    height: 20px;}
+ .x_u { display: flex;}  
